@@ -1,6 +1,6 @@
 # Java-Basic-Paint-App
 
-##Features
+Features
 
 1. Draw strokes with pencil tool and set thickness.
 2. Quick color selection buttons.

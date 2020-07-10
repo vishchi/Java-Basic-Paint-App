@@ -1,5 +1,7 @@
 # Java-Basic-Paint-App
 
+This is a Basic Paint Application developed only using Java.
+
 Features
 
 1. Draw strokes with pencil tool and set thickness.

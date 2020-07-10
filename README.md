@@ -2,7 +2,7 @@
 
 This is a Basic Paint Application developed only using Java.
 
-Features
+## Features
 
 1. Draw strokes with pencil tool and set thickness.
 2. Quick color selection buttons.
